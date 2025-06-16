@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: accuse-reception
-    env: docker
-    plan: free
-    dockerContext: .
-    region: oregon
